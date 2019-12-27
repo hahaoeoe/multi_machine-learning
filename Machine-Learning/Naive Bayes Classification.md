@@ -10,7 +10,7 @@
 
 
 
-### 기초개념
+## 기초개념
 
 나이브 베이즈 기법을 적용하기 위해서는 베이즈의 정리(Bayes' theorem)와 사후확률의 개념을 이해할 필요가 있다. 베이즈 정리는 조건부 확률을 계산하는 방법 중 하나이다. 
 
@@ -36,7 +36,9 @@
 
 위의 두 식에 간단한 곱셈을 적용하여 우리는 아래의 식을 유추해 낼 수 있다. 
 
-​                                                     **P(A∩B) = P(A|B)P(B) = P(B|A)P(A)**
+####                                                      **P(A∩B) = P(A|B)P(B) = P(B|A)P(A)**
+
+
 
 
 
@@ -44,13 +46,13 @@
 
 : A, B 사건이 서로 독립일 때, A와 B가 동시에 일어날 확률
 
-####                                       P(A∩B)=P(A)×P(B)
+####                                       **P(A∩B)=P(A)×P(B)**
 
 
 
 : 사건이 독립이라면, 다음의 수식을 항상 만족하게 된다.
 
-![img](https://t1.daumcdn.net/cfile/tistory/995F32445B721F0D43)
+<img src="https://t1.daumcdn.net/cfile/tistory/995F32445B721F0D43" alt="img" style="zoom:150%;" />
 
 
 
@@ -104,7 +106,9 @@
 
 
 
-### 나이브 베이즈(Naive Bayes Classification)
+
+
+## 나이브 베이즈(Naive Bayes Classification)
 
 
 
