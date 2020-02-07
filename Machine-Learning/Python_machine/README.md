@@ -37,3 +37,14 @@
    * Webpage = html (구조, 내용) + CSS(레이아웃, 스타일) + JavaScript 
    * [jqeury] jquery-mobile
    * 과제: 쳇봇만들기(chatbot.py)의 html 꾸미기
+
+
+
+**200207(금)**
+
+1. 프론트엔드 (FrontEnd)
+   * HTML
+   * CSS
+   * JavaScript
+2. Webserver와 browser 등 정보 전달 과정
+3. EditPlus를 통해 webpage 제작 및 구동
