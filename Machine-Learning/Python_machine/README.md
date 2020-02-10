@@ -65,4 +65,4 @@
 1. 토론 면접
    * 주제: 신종 코로나 바이러스 확산 방지를 위한 우한 뿐만 아니라 전체 중국인 방문 입국 금지 찬반
 
-<img src="C:\Users\student\Desktop\59EDE8E1-614D-4598-8E86-C1E6E3541AAC.jpg" style="zoom: 67%;" />
+![](C:\Users\student\Desktop\59EDE8E1-614D-4598-8E86-C1E6E3541AAC.jpg)
