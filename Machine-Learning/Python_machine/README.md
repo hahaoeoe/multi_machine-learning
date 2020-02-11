@@ -67,3 +67,8 @@
 
 ![59EDE8E1-614D-4598-8E86-C1E6E3541AAC](https://user-images.githubusercontent.com/58682936/74147716-24ae1980-4c47-11ea-9efd-3abb32de40dd.jpg)
 
+
+
+**200211(화)**
+
+1. Jquery를 활용한 웹 페이지 제작
