@@ -80,3 +80,11 @@
 1. xml
 2. ajax
 3. 과제): ajax 코드를 python 기반의 웹 서버에 구동되도록 구축 
+
+
+
+**200213(목)**
+
+1. RDBMS의 oracle을 활용하여 DB의 구조 익히기
+2. Oracle 다운
+3. sql plus 및 sql developer 다운 후 실행
