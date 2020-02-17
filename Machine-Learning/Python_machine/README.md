@@ -138,3 +138,17 @@
 
 
 
+
+
+**200217 (월)**
+
+*sql 기초*
+
+1. 함수: select, from, where,  group by - having 
+
+​      집계 함수: sum, avg, min, max
+
+2. 조인
+   * Inner join(내부조인; 일반적인 조인)
+   * outer join(외부조인): left, right, full
+3. 부속질의
