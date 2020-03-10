@@ -12,3 +12,12 @@
 6. ML & Deep Learning Framework
 7. Tensorflow 설치 및 예제
 
+
+
+---
+
+## 200310 (화) 수업
+
+1. Tensorflow 개념
+2. 그래프 생성
+3. 행렬 표현
